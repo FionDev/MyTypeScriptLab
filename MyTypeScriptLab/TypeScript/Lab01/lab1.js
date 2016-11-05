@@ -16,4 +16,3 @@ var Hello = (function () {
 var dom = document.querySelector("#content");
 var hello = new Hello(dom);
 hello.Say();
-//# sourceMappingURL=lab1.js.map

@@ -6,6 +6,9 @@ console.log(b);
 var c = 5.2;
 var d = +"1";
 console.log(d);
+//arrary 
+var dList = [1, 2, 3];
+console.log(dList);
 //String
 var name = "Fion";
 var vM = "Welcome," + name;
@@ -20,4 +23,3 @@ var MemberLevel;
 var level = MemberLevel.Low;
 console.log(MemberLevel[level]);
 // 
-//# sourceMappingURL=lab02.js.map

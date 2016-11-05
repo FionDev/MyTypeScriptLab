@@ -8,6 +8,10 @@ var c: number = 5.2;
 var d: number = +"1";
 console.log(d);
 
+//arrary 
+var dList: number[] = [1, 2, 3];
+console.log(dList);
+
 //String
 var name = "Fion";
 var vM = `Welcome,${name}`;
